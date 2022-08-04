@@ -23,4 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-项目演示地址：https://visual-data-nine.vercel.app/
+项目演示地址：www.data.esyou.top
